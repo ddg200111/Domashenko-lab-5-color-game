@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/_75_seconds"
+        android:id="@+id/seconds_75"/>
+    <item android:title="@string/_60_seconds"
+        android:id="@+id/seconds_60"/>
+    <item android:title="@string/_45_seconds"
+        android:id="@+id/seconds_45"/>
+</menu>

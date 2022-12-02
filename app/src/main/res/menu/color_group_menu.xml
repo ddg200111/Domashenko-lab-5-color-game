@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/all"
+        android:title="Всі" />
+    <item
+        android:id="@+id/warm"
+        android:title="Теплі" />
+    <item
+        android:id="@+id/cool"
+        android:title="Холодні" />
+</menu>

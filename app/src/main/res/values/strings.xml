@@ -1,0 +1,23 @@
+<resources>
+    <string name="app_name">color game with fragment</string>
+    <string name="rule">Чи співпадає назва кольору зліва з кольором тексту справа?</string>
+    <string name="time">Час</string>
+    <string name="name">Назва</string>
+    <string name="color">Колір</string>
+    <string name="yes">Так</string>
+    <string name="no">Ні</string>
+    <string name="score">0</string>
+    <string name="begin">Почати</string>
+    <string name="exit">Вихід</string>
+    <string name="result">Ваш результат:</string>
+    <string name="correct">0</string>
+    <string name="again">Знову</string>
+    <string name="back">Повернутися</string>
+    <string name="_75_seconds">75 seconds</string>
+    <string name="_60_seconds">60 seconds</string>
+    <string name="_45_seconds">45 seconds</string>
+    <string name="textview">TextView</string>
+    <string name="textview2">TextView</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
